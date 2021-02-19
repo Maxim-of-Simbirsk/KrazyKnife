@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 08b4ac212c7da3b4e84edfa4b6347114
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3593208871325139175
+    second: TimberSprite_0
+  - first:
+      213: 5308826083609106215
+    second: TimberSprite_1
+  - first:
+      213: -8668331414855624005
+    second: TimberSprite_2
+  - first:
+      213: -3977966841609560238
+    second: TimberSprite_3
+  - first:
+      213: 875514083221409733
+    second: TimberSprite_4
+  - first:
+      213: -1254166315836002763
+    second: TimberSprite_5
+  - first:
+      213: -1518705446096575331
+    second: TimberSprite_6
+  - first:
+      213: -912376780996740395
+    second: TimberSprite_7
+  - first:
+      213: -3102946101783017644
+    second: TimberSprite_8
+  - first:
+      213: 3631508568244204530
+    second: TimberSprite_9
+  - first:
+      213: 3951143963560115066
+    second: TimberSprite_10
+  - first:
+      213: -8747479601353010204
+    second: TimberSprite_11
+  - first:
+      213: -1093871235613962110
+    second: TimberSprite_12
+  - first:
+      213: 5328519461965979514
+    second: TimberSprite_13
+  - first:
+      213: 7882921321544450196
+    second: TimberSprite_14
+  - first:
+      213: -6635013479538740112
+    second: TimberSprite_15
+  - first:
+      213: -6494888242653428088
+    second: TimberSprite_16
+  - first:
+      213: 6289653810725514626
+    second: TimberSprite_17
+  - first:
+      213: -1630045536744638102
+    second: TimberSprite_18
+  - first:
+      213: -2216080999790083746
+    second: TimberSprite_19
+  - first:
+      213: -645959436970245713
+    second: TimberSprite_20
+  - first:
+      213: 2525868370549391147
+    second: TimberSprite_21
+  - first:
+      213: -1441007632482900089
+    second: TimberSprite_22
+  - first:
+      213: -1551591704142843520
+    second: TimberSprite_23
+  - first:
+      213: 2587067927756632174
+    second: TimberSprite_24
+  - first:
+      213: 5048047457385721057
+    second: TimberSprite_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TimberSprite_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 943
+        width: 274
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ff1e4b19b522ec0800000000000000
+      internalID: -3593208871325139175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 942
+        width: 274
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72759d7123dbca940800000000000000
+      internalID: 5308826083609106215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_2
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 938
+        width: 274
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbadb264186e3b780800000000000000
+      internalID: -8668331414855624005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 727
+        width: 161
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f5495db3c6bc8c0800000000000000
+      internalID: -3977966841609560238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 836
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf83468b63762c00800000000000000
+      internalID: 875514083221409733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 866
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ea55f616e489ee0800000000000000
+      internalID: -1254166315836002763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 843
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9466f671797ceae0800000000000000
+      internalID: -1518705446096575331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 843
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daff53d6269653f0800000000000000
+      internalID: -912376780996740395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 841
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4574a06e5fe10f4d0800000000000000
+      internalID: -3102946101783017644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_9
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 502
+        width: 395
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3bbf06dc5b56230800000000000000
+      internalID: 3631508568244204530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 509
+        width: 233
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bfd64308845d630800000000000000
+      internalID: 3951143963560115066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 506
+        width: 192
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3d06116a5ba9680800000000000000
+      internalID: -8747479601353010204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_12
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 501
+        width: 210
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280563328e9c1d0f0800000000000000
+      internalID: -1093871235613962110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 94
+        width: 394
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fdc3d0834b2f940800000000000000
+      internalID: 5328519461965979514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 278
+        width: 204
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490820b2d23c56d60800000000000000
+      internalID: 7882921321544450196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_15
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 246
+        width: 157
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0743a28e462bbe3a0800000000000000
+      internalID: -6635013479538740112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_16
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 242
+        width: 179
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88608c00e858dd5a0800000000000000
+      internalID: -6494888242653428088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_17
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 122
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28de97c11d6594750800000000000000
+      internalID: 6289653810725514626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_18
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 161
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69ff9e783ae069e0800000000000000
+      internalID: -1630045536744638102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 161
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51050e6216ee31e0800000000000000
+      internalID: -2216080999790083746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_20
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 53
+        width: 201
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1c31480571907f0800000000000000
+      internalID: -645959436970245713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_21
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 33
+        width: 181
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fbdff76efad0320800000000000000
+      internalID: 2525868370549391147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 41
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787ea3b6133800ce0800000000000000
+      internalID: -1441007632482900089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 90
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0817f16d093a77ae0800000000000000
+      internalID: -1551591704142843520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberSprite_24
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 26
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e607dbbc29c17e320800000000000000
+      internalID: 2587067927756632174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
